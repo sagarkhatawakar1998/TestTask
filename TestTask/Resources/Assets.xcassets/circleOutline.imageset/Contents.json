@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "circleOutline.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
